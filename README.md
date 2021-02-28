@@ -1,4 +1,4 @@
-![HitCount](http://hits.dwyl.com/Srens/SrensDev.svg)](http://hits.dwyl.com/Srens/SrensDev)
+[![HitCount](http://hits.dwyl.com/Srens/SrensDev.svg)](http://hits.dwyl.com/Srens/SrensDev)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=SrensDev)
 
 ### Language and Tools
