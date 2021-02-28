@@ -1,1 +1,3 @@
-### Hi
+```js
+Code addicted!
+```
