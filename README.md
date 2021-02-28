@@ -1,3 +1,4 @@
+![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/eYTbS2dAhn"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
 ### Language and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
