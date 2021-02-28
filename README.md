@@ -1,4 +1,4 @@
-### Langague and Tools
+### Language and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
@@ -7,3 +7,6 @@
 
 ### Github Stats
 ![SrensDev stats](https://github-readme-stats.vercel.app/api?username=SrensDev&count_private=true&sow_icons=true&theme=radical)
+
+### Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrensDev&show_icons=true&theme=radical)
