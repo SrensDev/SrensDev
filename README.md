@@ -1,5 +1,5 @@
 [![HitCount](http://hits.dwyl.com/Srens/SrensDev.svg)](http://hits.dwyl.com/Srens/SrensDev)
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=SrensDev)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=SrensDev) </br>
 
 ### Language and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
