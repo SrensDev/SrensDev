@@ -15,4 +15,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrensDev&layout=compact&theme=radical)
 
-![Time](https://github-readme-stats.vercel.app/api/wakatime?username=SrensDev)
+![Time](https://github-readme-stats.vercel.app/api/wakatime?username=SrensDev&layout=compact&theme=radical)
