@@ -1,3 +1,4 @@
+[![Srens Followers](https://img.shields.io/github/followers/SrensDev?label=Follow&style=social)]
 [![HitCount](http://hits.dwyl.com/Srens/SrensDev.svg)](http://hits.dwyl.com/Srens/SrensDev)
 ![Visitor](https://komarev.com/ghpvc/?username=SrensDev)
 
@@ -11,4 +12,3 @@
 
 ### Github Stats
 ![Srens Stats](https://github-readme-stats.vercel.app/api?username=SrensDev&count_private=true&sow_icons=true&theme=radical)
-[![Srens Followers](https://img.shields.io/github/followers/SrensDev?label=Follow&style=social)]
