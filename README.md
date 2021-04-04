@@ -10,4 +10,5 @@
 <img align="left" alt="npm" width="26px" src="https://i.imgur.com/YSdJHjO.png" /> </br>
 
 ### Github Stats
-![SrensDev stats](https://github-readme-stats.vercel.app/api?username=SrensDev&count_private=true&sow_icons=true&theme=radical)
+![Srens Stats](https://github-readme-stats.vercel.app/api?username=SrensDev&count_private=true&sow_icons=true&theme=radical)
+[![Srens Followers](https://img.shields.io/github/followers/SrensDev?label=Follow&style=social)]
