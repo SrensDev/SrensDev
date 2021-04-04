@@ -12,6 +12,3 @@
 
 ### Github Stats
 ![Srens Stats](https://github-readme-stats.vercel.app/api?username=SrensDev&count_private=true&sow_icons=true&theme=radical)
-
-### Langs
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SrensDev)
