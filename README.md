@@ -8,7 +8,8 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
-<img align="left" alt="npm" width="26px" src="https://i.imgur.com/YSdJHjO.png" /> </br>
+<img align="left" alt="npm" width="26px" src="https://i.imgur.com/YSdJHjO.png" />
+<img align="left" alt="html" width="26px" src="https://imgur.com/noAJN1B" />  </br>
 
 ### Github Stats
 ![Srens Stats](https://github-readme-stats.vercel.app/api?username=SrensDev&count_private=true&sow_icons=true&theme=radical)
