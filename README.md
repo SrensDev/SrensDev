@@ -1,5 +1,4 @@
 ![Srens Followers](https://img.shields.io/github/followers/SrensDev?label=Follow&style=social)
-[![HitCount](http://hits.dwyl.com/Srens/SrensDev.svg)](http://hits.dwyl.com/Srens/SrensDev)
 ![Visitor](https://komarev.com/ghpvc/?username=SrensDev)
 
 ### Language and Tools
