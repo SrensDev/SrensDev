@@ -1,5 +1,6 @@
 ![Srens Followers](https://img.shields.io/github/followers/SrensDev?label=Follow&style=social)
 ![Visitor](https://komarev.com/ghpvc/?username=SrensDev)
+[![Discord](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dxtytbup2k)
 
 ### Language and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
@@ -12,7 +13,7 @@
 <img align="left" alt="css" width="26px" src="https://i.imgur.com/QrUJIJC.png" /> </br>
 
 ### Discord
-![https://discord.com/users/723839275711332402](https://discord.c99.nl/widget/theme-2/723839275711332402.png)
+![Srens Discord](https://discord.c99.nl/widget/theme-2/723839275711332402.png)
 
 ### Github Stats
 ![Srens Stats](https://github-readme-stats.vercel.app/api?username=SrensDev&count_private=true&sow_icons=true&theme=radical)
