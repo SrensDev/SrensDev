@@ -11,6 +11,9 @@
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/noAJN1B.png" />
 <img align="left" alt="css" width="26px" src="https://i.imgur.com/QrUJIJC.png" /> </br>
 
+### Discord
+![https://discord.com/users/723839275711332402](https://discord.c99.nl/widget/theme-2/723839275711332402.png)
+
 ### Github Stats
 ![Srens Stats](https://github-readme-stats.vercel.app/api?username=SrensDev&count_private=true&sow_icons=true&theme=radical)
 
