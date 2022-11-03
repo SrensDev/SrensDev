@@ -1,6 +1,6 @@
 ![Srens Followers](https://img.shields.io/github/followers/SrensDev?label=Follow&style=social)
 ![Visitor](https://komarev.com/ghpvc/?username=SrensDev)
-[![Discord](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dxtytbup2k)
+[![Discord](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/RffbDMXWCE)
 [![NPM](https://img.shields.io/badge/-Srens%20npm-c40b0a?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~srens)
 
 ### Language and Tools
